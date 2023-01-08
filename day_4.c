@@ -1,4 +1,4 @@
-//read and print elements of array
+//sum of all elements of array
 #include<stdio.h>
 //#define MAX_SIZE 100
 int main ()
